@@ -1,0 +1,5 @@
+cadena=prompt("Ingresá un texto:")
+console.log("El carácter en primer lugar es:", cadena[0])
+console.log("Ingresá un número positivo menor a", parseInt(cadena))
+indice=parseInt(prompt())
+console.log("El carácter en esa posición es:", cadena[indice])
